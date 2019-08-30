@@ -1,3 +1,4 @@
+/* This will show confetti when the course is completed */
 $(function() {
     if(typeof(CoursePlayerV2) !== 'undefined') {
 

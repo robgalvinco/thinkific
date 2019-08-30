@@ -1,0 +1,11 @@
+/* This changes the icon on the course landing page */
+.icon-htmlitem:before {
+content: "\e937";
+}
+/* This changes the icon in teh course player */
+.toga-icon-content-text:before {
+content: "\f131";
+}
+/* This hides the lesson type row in the course player 
+.content-item__details {display:none !important;}
+*/
