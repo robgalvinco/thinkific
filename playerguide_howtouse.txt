@@ -17,16 +17,17 @@ player_guide_options.continue = 'Click the "Complete & Continue" button to mark 
 player_guide_options.mobile_menu = 'Click the three lines <br/>to open the course navigation menu<br/>You will find the course chapters and lessons<br/>Click the "Back to Dashboard" button to return back to your courses';
 </script>
 
-#optional code
+#optional code (put at bottom)
 <style>
 .enjoyhint_next_btn {
-    border: 2px solid #9f7f34 !important;
-    color: #9f7f34  !important;
+    border: 2px solid #fd5b4c !important;
+    color: #fd5b4c  !important;
+    border-radius: 40px;
 }
 
 .enjoyhint_next_btn:hover {
     color: #FFFFFF  !important;
-    background: #9f7f34  !important;
+    background: #fd5b4c  !important;
 }
 
 </style>
